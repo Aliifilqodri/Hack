@@ -67,76 +67,69 @@
     </a>
 </div>
 
-<a id="duo">
-<section class="my-4">
+<section id="duo" class="my-4">
     <div class="py-4">
-          <h2 class="text-center">Duo</h2>
+        <h2 class="text-center">Duo</h2>
     </div>
 
     <div class="container-fluid">
         <div class="row">
-    <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/Ultra17.webp" class="img-fluid pb-3">
+            <div class="col-lg-4 col-md-4 col-12">
+                <img src="images/Ultra17.webp" class="img-fluid pb-3">
+            </div>
+            <div class="col-lg-4 col-md-4 col-12">
+                <img src="images/Ultra7.png" class="img-fluid pb-3">
+            </div>
+            <div class="col-lg-4 col-md-4 col-12">
+                <img src="images/Ultra22.jpg" class="img-fluid pb-3">
+            </div>
+        </div>
     </div>
-    <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/Ultra7.png" class="img-fluid pb-3">
-    </div>
-    <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/Ultra22.jpg" class="img-fluid pb-3">
-    </div>
-    </div>
-    </div>
-</section>     
-</a>
+</section>
 
-<a id="movie">
-<section class="my-4">
+<section id="movie" class="my-4">
     <div class="py-4">
-          <h2 class="text-center">Movie</h2>
+        <h2 class="text-center">Movie</h2>
     </div>
 
     <div class="container-fluid">
         <div class="row">
-    <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/Ultra10.png" class="img-fluid pb-3">
+            <div class="col-lg-4 col-md-4 col-12">
+                <img src="images/Ultra10.png" class="img-fluid pb-3">
+            </div>
+            <div class="col-lg-4 col-md-4 col-12">
+                <img src="images/Ultra11.webp" class="img-fluid pb-3">
+            </div>
+            <div class="col-lg-4 col-md-4 col-12">
+                <img src="images/Ultra12.webp" class="img-fluid pb-3">
+            </div>
+        </div>
     </div>
-    <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/Ultra11.webp" class="img-fluid pb-3">
-    </div>
-    <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/Ultra12.webp" class="img-fluid pb-3">
-    </div>
-    </div>
-    </div>
-</section>     
-</a>
+</section>
 
-<a id="character">
-<section class="my-4">
+<section id="character" class="my-4">
     <div class="py-4">
-          <h2 class="text-center">Character</h2>
+        <h2 class="text-center">Character</h2>
     </div>
 
     <div class="container-fluid">
         <div class="row">
-    <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/Ultra15.webp" class="img-fluid pb-3">
+            <div class="col-lg-4 col-md-4 col-12">
+                <img src="images/Ultra15.webp" class="img-fluid pb-3">
+            </div>
+            <div class="col-lg-4 col-md-4 col-12">
+                <img src="images/Ultra14.png" class="img-fluid pb-3">
+            </div>
+            <div class="col-lg-4 col-md-4 col-12">
+                <img src="images/Ultra13.webp" class="img-fluid pb-3">
+            </div>
+        </div>
     </div>
-    <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/Ultra14.png" class="img-fluid pb-3">
-    </div>
-    <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/Ultra13.webp" class="img-fluid pb-3">
-    </div>
-    </div>
-    </div>
-</section>  
-</a>   
+</section>
 
-<a id="contact">
-<section class="my-4">
+<section id="contact" class="my-4">
     <div class="py-4">
-          <h2 class="text-center">Contact Us</h2>
+        <h2 class="text-center">Contact Us</h2>
     </div>
 
     <div class="w-50 m-auto">
@@ -154,23 +147,19 @@
                 <input type="text" name="number" class="form-control">
             </div>
             <button type="submit" class="btn btn-success">Submit</button>
-        </form
+        </form>
     </div>
 </section>
-</a>
 
-<a id="about">
-<section class="my-4">
+<section id="about" class="my-4">
     <div class="py-4">
-          <h2 class="text-center">About</h2>
+        <h2 class="text-center">About</h2>
     </div>
     <div class="container-fluid">
         <h3 class="text-center">Mac</h3> <br>
         <p class="text-center"><b>I am Like Ultraman </p></p>
     </div>
-
 </section>
-</a>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
